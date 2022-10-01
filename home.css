@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300&family=Langar&family=Noto+Sans+Lao&display=swap');
+
+html{
+    background-color:#483375;
+    background-image:url("challenger.jpg");
+    background-size: 100%;
+    background-blend-mode: multiply;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+#logo{
+    font-size: 2.5vw;
+    color:greenyellow;
+    margin-left: 2.5%;
+    font-family: 'Langar';
+    line-height: 5vw;
+}
+
+#about1{
+    color:#fff;
+    font-family: 'Jura', sans-serif;
+    text-align: center;
+}
+#about1 h1{
+    font-size: 2.5vw;
+}
+#about1 p{
+    font-size:3vw;
+}
+#about1 img{
+    margin-right: 15%;
+}
+
+
+#download1{
+    color:#fff;
+    font-family: 'Jura', sans-serif;
+    
+    margin-left: 35%;
+}
+#download1 a{
+    color:#fff;
+    font-family: 'Jura', sans-serif;
+    text-decoration: none;
+    font-size:4vw;
+    
+}
+#download1 p{
+    margin-top:-10%;
+    margin-left:13%;
+}
+#download1 a:hover{
+    color:red;
+}
+#download1 h4{
+    margin-top: -12.5%;
+    margin-left:25%;
+    color:gray;
+}
+
+
+
+#copyright{
+    margin-top: 15%;
+    color:#B07A7A;
+    text-align: center;
+    font-size: 1vw;
+    font-family: 'Jura';
+ }
+ #about2{
+    color:#fff;
+    font-family: 'Jura', sans-serif;
+    text-align: center;
+}
+#about2 h1{
+    font-size: 2.5vw;
+}
+#about2 p{
+    font-size:3vw;
+}
+#about2 img{
+    margin-right:-15%;
+}
+a
+
+#download2{
+    color:#fff;
+    font-family: 'Jura', sans-serif;
+    
+    margin-left: 30%;
+}
+#download2 a{
+    color:#fff;
+    font-family: 'Jura', sans-serif;
+    text-decoration: none;
+    font-size:4vw;
+    
+}
+#download2 p{
+    margin-top:-10%;
+    margin-left:13%;
+}
+#download2 a:hover{
+    color:red;
+}
+#download2 h4{
+    margin-top: -12.5%;
+    margin-left:25%;
+    color:gray;
+}
+
